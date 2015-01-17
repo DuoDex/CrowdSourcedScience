@@ -1,6 +1,7 @@
 This file contains all valid adresses for this biome.
 You may add invalid adresses, however they will not appear in the game unless it is sufficiently modified.
 
+Working biomes:
 		KerbinSrfLandedKSC = 
 		KerbinSrfLandedAdministration = 
 		KerbinSrfLandedAstronautComplex = 
@@ -25,7 +26,7 @@ You may add invalid adresses, however they will not appear in the game unless it
 		KerbinSrfLandedVABRoundTank = 
 		KerbinSrfLandedVABTanks = 
 
-Not working at this time:
+Not working biomes:
 		KerbinSrfLandedR&D = 
 		KerbinSrfLandedR&DCentralBuilding = 
 		KerbinSrfLandedR&DCornerLab = 
