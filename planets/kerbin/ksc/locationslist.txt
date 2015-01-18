@@ -24,8 +24,6 @@ You may add invalid adresses, however they will not appear in the game unless it
 		KerbinSrfLandedVABPodMemorial = 
 		KerbinSrfLandedVABRoundTank = 
 		KerbinSrfLandedVABTanks = 
-
-Not working at this time:
 		KerbinSrfLandedR&D = 
 		KerbinSrfLandedR&DCentralBuilding = 
 		KerbinSrfLandedR&DCornerLab = 
