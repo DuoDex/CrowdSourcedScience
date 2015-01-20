@@ -17,7 +17,7 @@ SCANsatAltimetryHiRes	| SCANSat			| DMagic and others 		| http://forum.kerbalspa
 SCANsatBiomeAnomaly	| SCANSat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
 
 Planet			| Mod				| By				| Forum URL for Mod						| Notes
-------------------------|-------------------|-------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------
+------------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------
 Bop			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
 Dres			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
 Duna			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
@@ -35,7 +35,3 @@ Pol			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
 Sun (Kerbol)		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
 Tylo			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
 Vall			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
-
-Other Mods		| By				| Forum URL for Mod						| Notes
-------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------
-Custom Biomes		| Trueborn			| http://forum.kerbalspaceprogram.com/threads/66256		| Only supported to one file per planet, see cb.cfg's
