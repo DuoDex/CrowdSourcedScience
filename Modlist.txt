@@ -1,39 +1,37 @@
-This file contains all planets and experiments Crowd Sourced Science supports.
+This file contains all planets and experiments Crowd Sourced Science supports
 
-experimentID  			| Mod				| By				| Forum URL for Mod										| Notes
-------------------------|-------------------|-------------------|-------------------------------------------------------|--------------------------------------------------
-crewReport				| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-evaReport				| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-gravityScan				| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-mobileMaterialsLab		| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-mysteryGoo				| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-seismicScan				| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-surfaceSample 			| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-temperatureScan			| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-atmosphereAnalysis		| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-barometerScan 			| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Science		|
-------------------------|-------------------|-------------------|-------------------------------------------------------|--------------------------------------------------
+experimentID		| Mod				| By				| Forum URL for Mod						| Notes
+------------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------
+atmosphereAnalysis	| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+barometerScan		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+crewReport		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+evaReport		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+gravityScan		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+mobileMaterialsLab	| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+mysteryGoo		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+seismicScan		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+surfaceSample		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+temperatureScan		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+SCANsatAltimetryLoRes	| SCANSat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
+SCANsatAltimetryHiRes	| SCANSat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
+SCANsatBiomeAnomaly	| SCANSat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
 
-Planet					| Mod				| By				| Forum URL for Mod										| Notes
-------------------------|-------------------|-------------------|-------------------------------------------------------|--------------------------------------------------
-Sun (Kerbol)  			| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Kerbol 		|
-Moho 					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Moho			|
-Eve						| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Eve			|
-Gilly					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Gilly			|
-Kerbin					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Kerbin 		|
-Mun						| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Mun			|
-Minmus					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Minmus 		|
-Duna 					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Duna			|
-Ike						| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Ike			|
-Dres 					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Dres			|
-Jool 					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Jool			|
-Laythe					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Laythe 		|
-Vall 					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Vall			|
-Tylo 					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Tylo			|
-Bop						| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Bop			|
-Pol						| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Pol			|
-Eeloo					| Stock				| Squad				| http://wiki.kerbalspaceprogram.com/wiki/Eeloo			|
-------------------------|-------------------|-------------------|-------------------------------------------------------|--------------------------------------------------
-
-Other Mods				| By				| Forum URL for Mod										| Notes
-------------------------|-------------------|-------------------------------------------------------|----------------------------------------------------------------------
+Planet			| Mod				| By				| Forum URL for Mod						| Notes
+------------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------
+Bop			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Dres			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Duna			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Eeloo			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Eve			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Gilly			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Ike			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Jool			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Kerbin			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Laythe			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Minmus			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Moho			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Mun			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Pol			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Sun (Kerbol)		| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Tylo			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
+Vall			| Stock				| Squad				| http://forum.kerbalspaceprogram.com/forum.php			|
