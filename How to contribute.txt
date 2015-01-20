@@ -1,0 +1,70 @@
+This file explains how you can contribute to Crowd Sourced Science.
+This is rather crude for offline use. Please refer to our wiki for more details: https://github.com/DuoDex/CrowdSourcedScience/wiki
+There are 3 ways in which you can contribute.
+
+REQUIREMENTS:
+In order to contribute you'll need to have a GitHub account.
+Fork the main CSS-Repo (http://github.com/DuoDex/CrowdSourcedScience) to your account and download it to your PC.
+
+Also, be aware that any contributions to this repo will be made under the CC0-license (http://creativecommons.org/publicdomain/zero/1.0/)
+
+ADD A SCIENCE MESSAGE:
+Adding a science message is pretty simple and there are 2 ways to do so:
+
+Per issue (please use only if you want to touch up a few files occasionally):
+1: Think of a message you'd like to add to an experiment.
+2: Decide how specific to a planet/situation/circumstance/biome you message should be linked.
+3: Create an issue to the main repo and we'll insert it from there.
+
+We'd appreciate if you'd stick to the following format:
+eID: atmosphereAnalysis
+KerbinSrfLandedLaunchPad = The Atmosphere heats up exponentially. Someone must have misread the manual again.
+
+Pull Request:
+1: Think of a message you'd like to add to an experiment.
+2: Decide how specific to a planet/situation/circumstance/biome you message should be linked.
+3: Open the relative file you'd like to add your message to and insert it (if that file in itself is sorted by situation/circumstance we'd appreciate if you stick to it)
+4: Push the changes to your repo on GitHub and then create a Pull Request to the main repo.
+
+ADD SUPPORT FOR A NEW EXPERIMENT:
+Adding support for a new experiment is a bit more difficult and time consuming.
+You'll need to know the experiment ID (eID for short) you'd like to add to.
+
+1: Create a new file called <eID>.cfg
+2: Insert the following block of text into that file and replace the <inserts>: 
+
+@EXPERIMENT_DEFINITION[*]:HAS[#id[<eID>]]
+{
+    %RESULTS
+    {
+        // Science Data is available in different situations for each
+        // planetary body. Please use this framework as a guide to the
+        // situational science that is available for this body. You may
+        // copy-paste and remove '//' to add your entry. Please add your
+        // entry just before '//LAST_ENTRY' or with similar entries.
+        // <Insert a list of valid combinations for this specific combination of planet/situation/circumstance/biome here>
+        //LAST_ENTRY
+    }
+}
+
+3: Put a copy of the file into every default and biome folder. If the experiment is insensitive to a biome in all situations just add it to the default folder.
+NOTE: If the experiment is planet specific at most (e.g. SCANSat) it may be interesting to skip step 3.
+4: Add a copy to the 000_default folder and replace "%RESULTS" with "!RESULTS {}", a new line and "RESULTS".
+5: Note the eID and the mod it is attached to to the Modlist.txt (it helps us track it).
+6: Push the changes to your repo on GitHub and then create a Pull Request to the main repo.
+
+ADD SUPPORT FOR A NEW PLANET:
+Adding support for a new planet is easier than adding an experiment in terms of workload.
+Still a few steps have to be taken and a few things to be considered.
+
+1: Duplicate (copy and paste) one of the planets folder and rename it to the target planet.
+NOTE: When choosing the base planet to copy from consider if the target planet has an atmosphere.
+2: Remove all but the default folder.
+3: Edit the files in the default folder to be specific to the planet for the description and remove all results contained.
+4: Duplicate the default folder and change it's name to one of the biomes.
+5: Adapt the files inside to this biome.
+6: Duplicate this biome-specific folder until there are as much folders (excluding the default folder) as the planet has biomes.
+7: Rename the folders for the biomes.
+8: Adapt the files inside to the relative biomes (Search and Replace is helpful here).
+9: Note the Planet and the mod it is attached to to the Modlist.txt (it helps us track it).
+10: Push the changes to your repo on GitHub and then create a Pull Request to the main repo.
