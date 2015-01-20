@@ -1,4 +1,5 @@
 This file explains how you can contribute to Crowd Sourced Science.
+This is rather crude for offline use. Please refer to our wiki for more details: https://github.com/DuoDex/CrowdSourcedScience/wiki
 There are 3 ways in which you can contribute.
 
 REQUIREMENTS:
