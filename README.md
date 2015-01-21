@@ -9,6 +9,9 @@ This is a simple mod that adds huge numbers of new experiment results to KSP - a
 ### Required mods
 * [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219)
 
+### Supported mods
+* [SCANSat](http://forum.kerbalspaceprogram.com/threads/80369)
+
 ### Download Link [![][shield:release-latest]][GIT:release]&nbsp;
 You can download the current version of CSS from [GitHub](https://github.com/DuoDex/CrowdSourcedScience/releases/latest).
 
@@ -26,8 +29,8 @@ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAl
 * You may not use the material for any commercial purposes.
 * You must use the same license as the original work.
 * You must credit the following people when publishing your derivatives in the download and forum posts:
-	* codepants (creator of Crowd-sourced Science Logs)
-	* DuoDex (current maintainer)
+    * codepants (Creator of Crowd-sourced Science Logs)
+    * DuoDex (Current maintainer)
 
 See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 
@@ -35,12 +38,10 @@ See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
 **See http://creativecommons.org/publicdomain/zero/1.0/legalcode for full details.**
 
 ### Other Contributors and Thanks!
-* codepants - creator of Crowd-sourced Science Logs
-* DuoDex - current maintainer
-* Olympic1 - discovered the 0.90 biomes
-* harryyoung - made the planet database
-* madsailor - made the framework
-* The KSP community - for all the science reports
+* Olympic1 - Discovered the 0.90 biomes
+* harryyoung - Planet database, SCANSat support
+* madsailor - Framework, science reports
+* The KSP community - Science reports
 
 
 
