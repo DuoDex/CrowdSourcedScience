@@ -11,6 +11,7 @@ This is a simple mod that adds huge numbers of new experiment results to KSP - a
 
 ### Supported mods
 * [SCANSat](http://forum.kerbalspaceprogram.com/threads/80369)
+* [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)		
 
 ### Download Link [![][shield:release-latest]][GIT:release]&nbsp;
 You can download the current version of CSS from [GitHub](https://github.com/DuoDex/CrowdSourcedScience/releases/latest).
