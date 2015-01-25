@@ -1,6 +1,6 @@
 Crowd Sourced Science
 ===
-This is a simple mod that adds huge numbers of new experiment results to KSP - at no cost to memory or performance - and you can add your own results!
+This is a simple mod that adds huge numbers of new experiment results to KSP - at virtually no cost to memory or performance - and you can add your own results!
 
 ### Authors
 * [DuoDex](http://forum.kerbalspaceprogram.com/members/110055) - Maintainer
@@ -11,19 +11,21 @@ This is a simple mod that adds huge numbers of new experiment results to KSP - a
 
 ### Supported mods
 * [SCANSat](http://forum.kerbalspaceprogram.com/threads/80369)
-* [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)		
+* [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)
+* [USI MKS](http://forum.kerbalspaceprogram.com/threads/79588)
+* [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/threads/102502)		
 
-### Download Link [![][shield:release-latest]][GIT:release]&nbsp;
+### Download Link [![][shield:release-latest]][GIT:release]  
 You can download the current version of CSS from [GitHub](https://github.com/DuoDex/CrowdSourcedScience/releases/latest).
 
 ### Contribute
-Do you want your own science reports in our mod?  
-Then go to our [wiki](http://github.com/DuoDex/CrowdSourcedScience/wiki) for knowing how to contribute correctly.  
+Do you want your own science reports in CSS?  
+Then go to our [wiki](http://github.com/DuoDex/CrowdSourcedScience/wiki) to learn how to contribute.  
 
 ### License
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
 
-* You are free to share, copy and redistribute my work "as-is".
+* You are free to share, copy and redistribute the work "as-is".
 * You may adapt, remix, transform, and build upon the material.
 
 **Under the following terms:**

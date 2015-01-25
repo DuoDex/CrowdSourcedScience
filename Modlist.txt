@@ -21,6 +21,16 @@ retrogradeKuarqs	| Station Science		| ethernet			| http://forum.kerbalspaceprogr
 eccentricKuarqs		| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 bioproducts		| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 kuarqsBioproducts	| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
+soilAnalysis		| USI MKS			| RoverDude			|http://forum.kerbalspaceprogram.com/
+threads/79588		|
+SRExperiment01		| USI Sounding Rockets		| RoverDude			|http://forum.kerbalspaceprogram.com/
+threads/102502		|
+SRExperiment02		| USI Sounding Rockets		| RoverDude			|http://forum.kerbalspaceprogram.com/
+threads/102502		|
+SRExperiment03		| USI Sounding Rockets		| RoverDude			|http://forum.kerbalspaceprogram.com/
+threads/102502		|
+SRExperiment04		| USI Sounding Rockets		| RoverDude			|http://forum.kerbalspaceprogram.com/
+threads/102502		|
 
 Planet			| Mod				| By				| Forum URL for Mod						| Notes
 ------------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------
