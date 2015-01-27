@@ -10,9 +10,10 @@ This is a simple mod that adds huge numbers of new experiment results to KSP - a
 * [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219)
 
 ### Supported mods
-* [SCANSat](http://forum.kerbalspaceprogram.com/threads/80369)
+* [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/104943)
+* [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369)
 * [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)
-* [USI MKS](http://forum.kerbalspaceprogram.com/threads/79588)
+* [USI Kolonization System](http://forum.kerbalspaceprogram.com/threads/79588)
 * [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/threads/102502)		
 
 ### Download Link [![][shield:release-latest]][GIT:release]  
