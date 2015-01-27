@@ -27,6 +27,7 @@ retrogradeKuarqs				| Station Science		| ethernet			| http://forum.kerbalspacepr
 eccentricKuarqs				| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 bioproducts					| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 kuarqsBioproducts				| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
+PakRatdataCamera				| USI Exploration Pack		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/86695		| 
 soilAnalysis					| USI Kolonization System	| RoverDude			| http://forum.kerbalspaceprogram.com/threads/79588		| 
 SRExperiment01					| USI Sounding Rockets		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/102502		| 
 SRExperiment02					| USI Sounding Rockets		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/102502		| 
