@@ -1,0 +1,4 @@
+This folder contains texts for mod experiments which were deprecated (the experiment itself usually got removed).
+Maybe we'll find a new home for these.
+
+If you move an experiment here please remove the MM Config so it does not accidently mess up the game if it manages to find it's way into a release

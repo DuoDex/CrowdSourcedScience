@@ -1,15 +1,9 @@
-// This file adds support for the USI MKS/OKS mod by RoverDude.
-// http://forum.kerbalspaceprogram.com/threads/79588
-//
-// There is 1 experiment available for all planets/biomes. Additional files
-// supporting this mod are located throughout as 'USI_MKS.cfg'.
-// Please note that science reports here are the originals included with the mod.
+This file supported the soilAnalysis experiment from MKS/OKS by RoverDude
+http://forum.kerbalspaceprogram.com/threads/79588
+It was deprecated with version 0.22.4 of MKS/OKS
+Pending a change of license for these entries (currently CC-BY-NC-SA, hopefully CC0) we may repurpose these reports for similar experiments.
 
-@EXPERIMENT_DEFINITION[*]:HAS[#id[soilAnalysis]]
-{
-	!RESULTS {}
-	RESULTS
-	{
+soilAnalysis
 		// default
 		default = You perform an analysis of the local soil composition.
 		default = The sample reveals complex artificial polymers, often used in reinforced fabrics and plastics.
@@ -87,5 +81,3 @@
 		EelooSrfLanded = The ground appears to be made up of many frozen things, including rocks, dirt, frost, water, and various metal ores.
 		EelooSrfLanded = You analyze the ground and discover that it's crystallized water.
 		//LAST_ENTRY
-	}
-}
