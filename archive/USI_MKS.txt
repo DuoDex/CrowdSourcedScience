@@ -1,7 +1,8 @@
-This file supported the soilAnalysis experiment from MKS/OKS by RoverDude
+﻿This file supported the soilAnalysis experiment from MKS/OKS by RoverDude
 http://forum.kerbalspaceprogram.com/threads/79588
 It was deprecated with version 0.22.4 of MKS/OKS
-Pending a change of license for these entries (currently CC-BY-NC-SA, hopefully CC0) we may repurpose these reports for similar experiments.
+Olympic1, the original writer, Cleared a change of license to CC0 here: https://github.com/DuoDex/CrowdSourcedScience/issues/17
+We may repurpose these reports.
 
 soilAnalysis
 		// default
