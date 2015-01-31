@@ -14,7 +14,6 @@ This is a simple mod that adds huge numbers of new experiment results to KSP - a
 * [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369)
 * [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)
 * [USI Exploration Pack](http://forum.kerbalspaceprogram.com/threads/86695)
-* [USI Kolonization System](http://forum.kerbalspaceprogram.com/threads/79588)
 * [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/threads/102502)		
 
 ### Download Link [![][shield:release-latest]][GIT:release]  
