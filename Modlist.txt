@@ -28,11 +28,22 @@ eccentricKuarqs					| Station Science		| ethernet			| http://forum.kerbalspacepr
 bioproducts					| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 kuarqsBioproducts				| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 PakRatdataCamera				| USI Exploration Pack		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/86695		| 
-soilAnalysis					| USI Kolonization System	| RoverDude			| http://forum.kerbalspaceprogram.com/threads/79588		| 
 SRExperiment01					| USI Sounding Rockets		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/102502		| 
 SRExperiment02					| USI Sounding Rockets		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/102502		| 
 SRExperiment03					| USI Sounding Rockets		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/102502		| 
 SRExperiment04					| USI Sounding Rockets		| RoverDude			| http://forum.kerbalspaceprogram.com/threads/102502		| 
+magnetosphericExperiment			| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
+gasChromotographyMassSpectrometryExperiment	| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
+FNSeismicProbeExperiment			| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
+ExpInterstellarTelescope			| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
+ExpKSPIScienceLab				| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
+ExpKSPIComputerCore				| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
 
 Planet						| Mod				| By				| Forum URL for Mod						| Notes
 ------------------------------------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------
