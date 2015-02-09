@@ -23,11 +23,11 @@ You can download the current version of CSS here [![][shield:release-latest]][GI
 ### Contribute
 You can learn how to contribute your own custom science reports to CSS in our [wiki](http://github.com/DuoDex/CrowdSourcedScience/wiki).  
 
-**NOTE: By contributing you agree to license your contribution under the** [![][shield:CC01]][License:1.0]. This is so that we can continue to offer CrowdSourcedScience openly under the [![][shield:CCO4]][License:4.0].
+**NOTE: By contributing you agree to license your contribution under the** [![][shield:CC01]][License:1.0].
 
 ### License
 
-CSS is licensed under the [![][shield:CCO4]][License:4.0], which in layman's terms means:  
+CSS is released under the [![][shield:CCO4]][License:4.0], which in layman's terms means:  
 
 * You are permitted to use, copy and redistribute the work "as-is".  
 * You may adapt, remix, transform and build upon the material, releasing any derivatives under your own name.  
