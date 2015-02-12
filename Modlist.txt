@@ -44,6 +44,17 @@ ExpKSPIScienceLab				| KSP Interstellar		| FractalUK			| http://forum.kerbalspac
 						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
 ExpKSPIComputerCore				| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
 						| Maintained by			| Boris-Barboris		| http://forum.kerbalspaceprogram.com/threads/104943		| 
+AnomalyScan					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmbiodrillscan					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmImagingPlatform				|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmlaserblastscan				|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmNAlbedoScan					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmSolarParticles				|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmSoilMoisture					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+dmXRayDiffract					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+magScan						|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+rpwsScan					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
+scopeScan					|DMagic Orbital Science		|DMagic				|http://forum.kerbalspaceprogram.com/threads/64972
 
 Planet						| Mod				| By				| Forum URL for Mod						| Notes
 ------------------------------------------------|-------------------------------|-------------------------------|---------------------------------------------------------------|-------------------------------------------------------

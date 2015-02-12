@@ -9,7 +9,8 @@ CSS adds huge numbers of new experiment results to [Kerbal Space Program](http:/
 * [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369)
 * [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)
 * [USI Exploration Pack](http://forum.kerbalspaceprogram.com/threads/86695)
-* [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/threads/102502)		
+* [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/threads/102502)
+* [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/threads/64972)
 
 ### Download   
 You can download the current version of CSS here [![][shield:release-latest]][GIT:release].
