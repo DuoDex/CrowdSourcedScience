@@ -5,12 +5,14 @@ CSS adds huge numbers of new experiment results to [Kerbal Space Program](http:/
 * **CSS requires** [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219).
 
 ### Supported Mods
+* [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/threads/64972)
 * [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/104943)
-* [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369)
 * [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)
 * [USI Exploration Pack](http://forum.kerbalspaceprogram.com/threads/86695)
 * [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/threads/102502)
-* [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/threads/64972)
+
+##### Implemented with upstream mod
+* [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369)
 
 ### Download   
 You can download the current version of CSS here [![][shield:release-latest]][GIT:release].
