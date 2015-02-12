@@ -18,6 +18,9 @@ FNSeismicProbeExperiment			| KSP Interstellar		| FractalUK			| http://forum.kerb
 ExpInterstellarTelescope			| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
 ExpKSPIScienceLab				| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
 ExpKSPIComputerCore				| KSP Interstellar		| FractalUK			| http://forum.kerbalspaceprogram.com/threads/43839		| 
+SCANsatAltimetryLoRes				| SCANsat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
+SCANsatAltimetryHiRes				| SCANsat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
+SCANsatBiomeAnomaly				| SCANsat			| DMagic and others 		| http://forum.kerbalspaceprogram.com/threads/80369		| Only one file in the 000_default folder as experiments are only planet sensitive
 plantGrowth					| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 progradeKuarqs					| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
 retrogradeKuarqs				| Station Science		| ethernet			| http://forum.kerbalspaceprogram.com/threads/54774		| 
