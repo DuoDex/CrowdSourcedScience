@@ -42,6 +42,7 @@ CSS is released under the [![][shield:CCO4]][License:4.0], which in layman's ter
 ### Other Contributors and Thanks!
 * ImAHungryMan - Science reports
 * Toastibuns - Science reports
+* Wartz - Science reports
 * The KSP community - Science reports
 
 [GIT:release]: http://github.com/DuoDex/CrowdSourcedScience/releases/latest
