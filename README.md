@@ -1,6 +1,6 @@
 Crowd Sourced Science
 ===
-CSS adds huge numbers of new experiment results to [Kerbal Space Program](http://kerbalspaceprogram.com/) at virtually no cost to memory or performance.  Best of all you can contribute your own results and see them in-game!  
+CSS adds huge numbers of new experiment results to [Kerbal Space Program](http://kerbalspaceprogram.com/) at virtually no cost to memory or performance. Best of all you can contribute your own results and see them in-game!  
 
 * **CSS requires** [Module Manager](http://forum.kerbalspaceprogram.com/threads/55219).
 
@@ -43,11 +43,15 @@ CSS is released under the [![][shield:CCO4]][License:4.0], which in layman's ter
 * ImAHungryMan - Science reports
 * Toastibuns - Science reports
 * Wartz - Science reports
+* phardy
+* Auranapse
+* WolfGeek101
+* bcwadsworth
 * The KSP community - Science reports
 
 [GIT:release]: http://github.com/DuoDex/CrowdSourcedScience/releases/latest
 [License:4.0]: http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 [License:1.0]: https://creativecommons.org/publicdomain/zero/1.0/
 [shield:release-latest]: http://img.shields.io/github/release/DuoDex/CrowdSourcedScience.svg
-[shield:CCO4]: http://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg
-[shield:CC01]: http://img.shields.io/badge/license-CC0%201.0-blue.svg
+[shield:CCO4]: http://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg
+[shield:CC01]: http://img.shields.io/badge/License-CC0%201.0-blue.svg
