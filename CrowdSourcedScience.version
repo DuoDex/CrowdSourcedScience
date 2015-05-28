@@ -1,0 +1,35 @@
+{
+    "NAME"     : "Crowd Sourced Science",
+    "URL"      : "https://github.com/DuoDex/CrowdSourcedScience/blob/master/CrowdSourcedScience.version",
+    "DOWNLOAD" : "https://github.com/DuoDex/CrowdSourcedScience/releases",
+    "GITHUB" :
+    {
+        "USERNAME" : "DuoDex",
+        "REPOSITORY" : "CrowdSourcedScience"
+    },
+    "VERSION" :
+    {
+        "MAJOR" : 3,
+        "MINOR" : 0,
+        "PATCH" : 0,
+        "BUILD" : 0
+    },
+    "KSP_VERSION" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
+    },
+    "KSP_VERSION_MIN" :
+    {
+        "MAJOR" : 0,
+        "MINOR" : 90,
+        "PATCH" : 0
+    },
+    "KSP_VERSION_MAX" :
+    {
+        "MAJOR" : 1,
+        "MINOR" : 0,
+        "PATCH" : 2
+    }
+}
