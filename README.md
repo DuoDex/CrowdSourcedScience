@@ -6,7 +6,7 @@ CSS adds huge numbers of new experiment results to [Kerbal Space Program](http:/
 
 ### Supported Mods
 * [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/threads/64972)
-* [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/104943)
+* [KSP Interstellar](http://forum.kerbalspaceprogram.com/threads/111159)
 * [SCANsat](http://forum.kerbalspaceprogram.com/threads/80369)
 * [Station Science](http://forum.kerbalspaceprogram.com/threads/54774)
 * [USI Exploration Pack](http://forum.kerbalspaceprogram.com/threads/86695)
