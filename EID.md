@@ -1,8 +1,8 @@
 ## Experiments/Situations/Biomes
 ### Squad
 
-        Experiment        |        eID         | SrfLanded | SrfSplashed | FlyingLow | FlyingHigh | InSpaceLow | InSpaceHigh
-:------------------------:|:------------------:|:---------:|:-----------:|:---------:|:----------:|:----------:|:-----------:
+Experiment                | eID                | SrfLanded | SrfSplashed | FlyingLow | FlyingHigh | InSpaceLow | InSpaceHigh
+:-------------------------|:------------------:|:---------:|:-----------:|:---------:|:----------:|:----------:|:-----------:
 Sample                    | asteroidSample     | Biome     | Biome       | Biome     | Yes        | Yes        | Yes
 Atmosphere Analysis       | atmosphereAnalysis | Biome     | No          | Biome     | Biome      | No         | No
 Atmospheric Pressure Scan | barometerScan      | Biome     | Biome       | Yes       | Yes        | Yes        | Yes
@@ -17,8 +17,8 @@ Temperature Scan          | temperatureScan    | Biome     | Biome       | Biome
 
 ### Mods
 
-            Experiment             |                     eID                     | SrfLanded | SrfSplashed | FlyingLow | FlyingHigh | InSpaceLow | InSpaceHigh
-:---------------------------------:|:-------------------------------------------:|:---------:|:-----------:|:---------:|:----------:|:----------:|:-----------:
+Experiment                         | eID                                         | SrfLanded | SrfSplashed | FlyingLow | FlyingHigh | InSpaceLow | InSpaceHigh
+:----------------------------------|:-------------------------------------------:|:---------:|:-----------:|:---------:|:----------:|:----------:|:-----------:
 Infrared Telescope Experiment      | ExpInterstellarTelescope                    | Yes       | Yes         | Yes       | Yes        | Yes        | Yes
 Computer Core Science Developments | ExpKSPIComputerCore                         | Yes       | Yes         | Yes       | Yes        | Yes        | Yes
 Science Lab Experiments            | ExpKSPIScienceLab                           | Yes       | Yes         | Yes       | Yes        | Yes        | Yes
