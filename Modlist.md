@@ -1,76 +1,76 @@
 This file contains all planets and experiments Crowd Sourced Science supports
 
-experimentID                                | Mod                    | By                | Forum URL for Mod                                  | Notes
---------------------------------------------|------------------------|-------------------|----------------------------------------------------|-------
-atmosphereAnalysis                          | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-barometerScan                               | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-crewReport                                  | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-evaReport                                   | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-gravityScan                                 | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-mobileMaterialsLab                          | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-mysteryGoo                                  | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-seismicScan                                 | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-surfaceSample                               | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-temperatureScan                             | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-asteroidSample                              | Stock                  | Squad             | http://forum.kerbalspaceprogram.com/forum.php      | 
-magnetosphericExperiment                    | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-gasChromotographyMassSpectrometryExperiment | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-FNSeismicProbeExperiment                    | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-ExpInterstellarTelescope                    | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-ExperimentFNGammaRaySpectrometer            | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-ExpKSPIScienceLab                           | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-ExpKSPIComputerCore                         | KSP Interstellar       | FractalUK         | http://forum.kerbalspaceprogram.com/threads/43839  | 
-                                            | Maintained by          | FreeThinker       | http://forum.kerbalspaceprogram.com/threads/111159 | 
-SCANsatAltimetryLoRes                       | SCANsat                | DMagic and others | http://forum.kerbalspaceprogram.com/threads/80369  | Only one file in the 000_default folder as experiments are only planet sensitive
-SCANsatAltimetryHiRes                       | SCANsat                | DMagic and others | http://forum.kerbalspaceprogram.com/threads/80369  | Only one file in the 000_default folder as experiments are only planet sensitive
-SCANsatBiomeAnomaly                         | SCANsat                | DMagic and others | http://forum.kerbalspaceprogram.com/threads/80369  | Only one file in the 000_default folder as experiments are only planet sensitive
-plantGrowth                                 | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-progradeKuarqs                              | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-retrogradeKuarqs                            | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-eccentricKuarqs                             | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-bioproducts                                 | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-kuarqsBioproducts                           | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-zoologyBay                                  | Station Science        | ethernet          | http://forum.kerbalspaceprogram.com/threads/54774  | 
-PakRatdataCamera                            | USI Exploration Pack   | RoverDude         | http://forum.kerbalspaceprogram.com/threads/86695  | 
-SRExperiment01                              | USI Sounding Rockets   | RoverDude         | http://forum.kerbalspaceprogram.com/threads/102502 | 
-SRExperiment02                              | USI Sounding Rockets   | RoverDude         | http://forum.kerbalspaceprogram.com/threads/102502 | 
-SRExperiment03                              | USI Sounding Rockets   | RoverDude         | http://forum.kerbalspaceprogram.com/threads/102502 | 
-SRExperiment04                              | USI Sounding Rockets   | RoverDude         | http://forum.kerbalspaceprogram.com/threads/102502 | 
-magScan                                     | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-rpwsScan                                    | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-scopeScan                                   | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmImagingPlatform                           | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmlaserblastscan                            | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmNAlbedoScan                               | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmXRayDiffract                              | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmSolarParticles                            | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmSoilMoisture                              | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmAsteroidScan                              | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-dmRadiometerScan                            | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
-AnomalyScan                                 | DMagic Orbital Science | DMagic            | http://forum.kerbalspaceprogram.com/threads/64972  | 
+experimentID                                | Mod                       | By          | Forum URL for Mod                                              | Notes
+--------------------------------------------|---------------------------|-------------|----------------------------------------------------------------|-------
+asteroidSample                              | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+atmosphereAnalysis                          | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+barometerScan                               | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+crewReport                                  | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+evaReport                                   | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+gravityScan                                 | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+mobileMaterialsLab                          | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+mysteryGoo                                  | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+seismicScan                                 | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+surfaceSample                               | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+temperatureScan                             | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+ExpInterstellarTelescope                    | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+ExpKSPIComputerCore                         | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+ExpKSPIScienceLab                           | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+FNGammaRaySpectrometer                      | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+FNSeismicProbeExperiment                    | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+gasChromotographyMassSpectrometryExperiment | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+magnetosphericExperiment                    | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+ParticleExperiment                          | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
+SCANsatAltimetryHiRes                       | SCANsat                   | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/  | 
+SCANsatAltimetryLoRes                       | SCANsat                   | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/  | 
+SCANsatBiomeAnomaly                         | SCANsat                   | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/  | 
+SCANsatResources                            | SCANsat                   | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/  | 
+bioproducts                                 | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+eccentricKuarqs                             | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+kuarqsBioproducts                           | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+plantGrowth                                 | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+progradeKuarqs                              | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+retrogradeKuarqs                            | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+zoologyBay                                  | Station Science Continued | tomf        | http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/ | 
+PakRatdataCamera                            | USI Exploration Pack      | RoverDude   | http://forum.kerbalspaceprogram.com/index.php?/topic/78242-*/  | 
+SRExperiment01                              | USI Sounding Rockets      | RoverDude   | http://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/  | 
+SRExperiment02                              | USI Sounding Rockets      | RoverDude   | http://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/  | 
+SRExperiment03                              | USI Sounding Rockets      | RoverDude   | http://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/  | 
+SRExperiment04                              | USI Sounding Rockets      | RoverDude   | http://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/  | 
+AnomalyScan                                 | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmAsteroidScan                              | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmbathymetryscan                            | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmbiodrillscan                              | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmImagingPlatform                           | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmlaserblastscan                            | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmNAlbedoScan                               | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmRadiometerScan                            | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmReconScan                                 | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmseismicHammer                             | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmSIGINT                                    | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmSoilMoisture                              | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmSolarParticles                            | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+dmXRayDiffract                              | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+magScan                                     | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+rpwsScan                                    | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
+scopeScan                                   | DMagic Orbital Science    | DMagic      | http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/  | 
 
-Planet       | Mod   | By    | Forum URL for Mod                             | Notes
--------------|-------|-------|-----------------------------------------------|-------
-Sun (Kerbol) | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Moho         | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Eve          | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Gilly        | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Kerbin       | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Mun          | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Minmus       | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Duna         | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Ike          | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Dres         | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Jool         | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Laythe       | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Vall         | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Tylo         | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Bop          | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Pol          | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
-Eeloo        | Stock | Squad | http://forum.kerbalspaceprogram.com/forum.php | 
+Planet | Mod   | By    | Forum URL for Mod                             | Notes
+-------|-------|-------|-----------------------------------------------|-------
+Sun    | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Moho   | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Eve    | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Gilly  | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Kerbin | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Mun    | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Minmus | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Duna   | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Ike    | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Dres   | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Jool   | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Laythe | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Vall   | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Tylo   | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Bop    | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Pol    | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
+Eeloo  | Stock | Squad | http://forum.kerbalspaceprogram.com/index.php | 
