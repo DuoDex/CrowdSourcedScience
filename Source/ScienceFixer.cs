@@ -1,8 +1,10 @@
 ﻿/*
  * ScienceFixer
  * 
- * This code is courtesy of Sigma88 and is used with permission.
- * Copyright © 2017, Sigma88. All rights reserved.
+ * This code was written by Sigma88 for Crowd Sourced Science and is licensed under
+ * the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ * 
+ * See <https://creativecommons.org/licenses/by-nc-sa/4.0/> for full details.
  */
 
 using UnityEngine;

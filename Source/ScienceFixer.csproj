@@ -43,4 +43,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy /y "$(TargetPath)" "..\..\..\GameData\CrowdSourcedScience\Plugin"</PostBuildEvent>
+  </PropertyGroup>
 </Project>
