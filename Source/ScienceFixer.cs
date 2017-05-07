@@ -25,8 +25,10 @@ namespace ScienceFixer
                 ConfigNode results = config.GetNode("RESULTS");
                 ConfigNode data = new ConfigNode();
                 foreach (ConfigNode.Value key in results.values)
-                    data.AddValue(key.name + (key.name != "default" ? "*" : ""), key.value);
-
+                {
+                    if (key.name[key.name.Length - 1] != '*')
+                        data.AddValue(key.name + (key.name != "default" ? "*" : ""), key.value);
+                }
                 results.ClearData();
                 results.AddData(data);
             }
