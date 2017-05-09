@@ -26,8 +26,8 @@ namespace ScienceFixer
                 ConfigNode data = new ConfigNode();
                 foreach (ConfigNode.Value key in results.values)
                 {
-                    if (key.name[key.name.Length - 1] != '*')
-                        data.AddValue(key.name + (key.name != "default" ? "*" : ""), key.value);
+                    if (!key.name.StartsWith("default") && !key.name.EndsWith('*'))
+                        data.AddValue(key.name + "*", key.value);
                 }
                 results.ClearData();
                 results.AddData(data);
