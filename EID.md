@@ -14,6 +14,7 @@ Mystery Goo™ Observation  | mysteryGoo         | Biome     | Biome       | Yes
 Seismic Scan              | seismicScan        | Biome     | No          | No        | No         | No         | No
 Surface Sample            | surfaceSample      | Biome     | Biome       | No        | No         | No         | No
 Temperature Scan          | temperatureScan    | Biome     | Biome       | Biome     | Yes        | Yes        | Yes
+Infrared Telescope        | infraredTelescope  | No        | No          | No        | No         | No         | Yes
 
 ### Mods
 

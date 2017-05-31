@@ -13,6 +13,7 @@ mysteryGoo                                  | Stock                     | Squad 
 seismicScan                                 | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
 surfaceSample                               | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
 temperatureScan                             | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
+infraredTelescope                           | Stock                     | Squad       | http://forum.kerbalspaceprogram.com/index.php                  | 
 ExpInterstellarTelescope                    | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
 ExpKSPIComputerCore                         | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
 ExpKSPIScienceLab                           | KSP Interstellar Extended | FreeThinker | http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/ | 
