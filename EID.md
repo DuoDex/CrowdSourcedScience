@@ -27,6 +27,7 @@ GammaRay Experiment                | FNGammaRaySpectrometer                     
 Impactor Experiment                | FNSeismicProbeExperiment                    | Yes       | Yes         | Yes       | Yes        | Yes        | Yes
 Analyse Atmospheric Composition    | gasChromotographyMassSpectrometryExperiment | Yes       | Yes         | Yes       | Yes        | No         | No
 Analyse Magnetosphere              | magnetosphericExperiment                    | No        | No          | No        | No         | Yes        | Yes
+Analyse Oceanic Composition        | oceanicMassSpectrometryExperiment           | No        | Yes         | No        | No         | No         | No
 Supercollider Experiment           | ParticleExperiment                          | No        | No          | No        | No         | Yes        | Yes
 High Resolution Altimetry Scan     | SCANsatAltimetryHiRes                       | No        | No          | No        | No         | No         | No
 Low Resolution Altimetry Scan      | SCANsatAltimetryLoRes                       | No        | No          | No        | No         | No         | No

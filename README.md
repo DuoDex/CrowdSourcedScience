@@ -3,27 +3,27 @@ Crowd Sourced Science
 CSS adds huge numbers of new experiment results to [Kerbal Space Program](https://kerbalspaceprogram.com/) at virtually no cost to memory or performance. Best of all you can contribute your own results and see them in-game!
 
 ### Dependencies
-* [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/).
+* [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/).
 
 ### Supported Mods
-* [DMagic Orbital Science](http://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/)
-* [KSP Interstellar Extended](http://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/)
-* [SCANsat](http://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
-* [Station Science Continued](http://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/)
-* [USI Exploration Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/78242-*/)
-* [USI Sounding Rockets](http://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/)
+* [DMagic Orbital Science](https://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/)
+* [KSP Interstellar Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/)
+* [SCANsat](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
+* [Station Science Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/)
+* [USI Exploration Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/78242-*/)
+* [USI Sounding Rockets](https://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/)
 
 #### Implemented with upstream mod
-* [SCANsat](http://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
+* [SCANsat](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
 
 ### Download   
 You can download the current version of CSS here [![][shield:release]][ccs:release].
 
 ### The CSS Team
-* [DuoDex](http://forum.kerbalspaceprogram.com/index.php?/profile/107061-duodex/) - Maintainer
-* [Olympic1](http://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/) - Moderator
-* [madsailor](http://forum.kerbalspaceprogram.com/index.php?/profile/120701-madsailor/) - Moderator
-* [harryyoung](http://forum.kerbalspaceprogram.com/index.php?/profile/106731-harryyoung/) - Moderator
+* [DuoDex](https://forum.kerbalspaceprogram.com/index.php?/profile/107061-duodex/) - Maintainer
+* [Olympic1](https://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/) - Maintainer
+* [madsailor](https://forum.kerbalspaceprogram.com/index.php?/profile/120701-madsailor/) - Moderator
+* [harryyoung](https://forum.kerbalspaceprogram.com/index.php?/profile/106731-harryyoung/) - Moderator
 
 ### Contribute
 You can learn how to contribute your own custom science reports to CSS at our [wiki](https://github.com/DuoDex/CrowdSourcedScience/wiki).
