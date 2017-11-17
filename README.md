@@ -48,6 +48,7 @@ CSS is released under the [![][shield:CC40]][license:CC40], which in layman's te
 * Auranapse - Science reports
 * WolfGeek101 - Science reports
 * bcwadsworth - Science reports
+* voicey99 - Duna science reports
 * The KSP community - Science reports
 
 [ccs:release]: https://github.com/DuoDex/CrowdSourcedScience/releases/latest
