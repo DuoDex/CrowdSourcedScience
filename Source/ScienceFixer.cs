@@ -28,6 +28,8 @@ namespace ScienceFixer
                 {
                     if (!key.name.StartsWith("default") && !key.name.EndsWith("*"))
                         data.AddValue(key.name + "*", key.value);
+                    else
+                        data.AddValue(key.name, key.value);
                 }
                 results.ClearData();
                 results.AddData(data);
