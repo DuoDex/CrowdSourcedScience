@@ -1,59 +1,46 @@
 Crowd Sourced Science
 =====================
-CSS adds huge numbers of new experiment results to [Kerbal Space Program](https://kerbalspaceprogram.com/) at virtually no cost to memory or performance. Best of all you can contribute your own results and see them in-game!
+Crowd Sourced Science adds huge numbers of new experiment results to [Kerbal Space Program](https://kerbalspaceprogram.com/) at virtually no cost to memory or performance. Best of all, you can contribute your own results and see them in-game!
 
-### Dependencies
-* [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-*/).
+## Dependency
+* [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-mm/)
 
-### Supported Mods
-* [DMagic Orbital Science](https://forum.kerbalspaceprogram.com/index.php?/topic/59009-*/)
-* [KSP Interstellar Extended](https://forum.kerbalspaceprogram.com/index.php?/topic/155255-*/)
-* [SCANsat](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
-* [Station Science Continued](https://forum.kerbalspaceprogram.com/index.php?/topic/154629-*/)
-* [USI Exploration Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/78242-*/)
-* [USI Sounding Rockets](https://forum.kerbalspaceprogram.com/index.php?/topic/92434-*/)
+**NOTE:** Module Manager v3.0.0 or higher is needed for this to work.
 
-#### Implemented with upstream mod
-* [SCANsat](https://forum.kerbalspaceprogram.com/index.php?/topic/72679-*/)
+## Downloads
+* [CKAN](https://forum.kerbalspaceprogram.com/index.php?/topic/154922-ckan/)
+* [GitHub](https://github.com/DuoDex/CrowdSourcedScience/releases/latest)
 
-### Download   
-You can download the current version of CSS here [![][shield:release]][ccs:release].
+## The CSS Team
+#### Maintainer
+* [Olympic1](https://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/)
 
-### The CSS Team
-* [DuoDex](https://forum.kerbalspaceprogram.com/index.php?/profile/107061-duodex/) - Maintainer
-* [Olympic1](https://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/) - Maintainer
-* [madsailor](https://forum.kerbalspaceprogram.com/index.php?/profile/120701-madsailor/) - Moderator
-* [harryyoung](https://forum.kerbalspaceprogram.com/index.php?/profile/106731-harryyoung/) - Moderator
+#### Previous authors
+* [codepants](https://forum.kerbalspaceprogram.com/index.php?/profile/74088-codepants/) - Creator
+* [DuoDex](https://forum.kerbalspaceprogram.com/index.php?/profile/107061-duodex/) - Previous maintainer
 
-### Contribute
-You can learn how to contribute your own custom science reports to CSS at our [wiki](https://github.com/DuoDex/CrowdSourcedScience/wiki).
-
-**NOTE: By contributing you agree to license your contribution under the** [![][shield:CC01]][license:CC01].
-
-### License
-CSS is released under the [![][shield:CC40]][license:CC40], which in layman's terms means:
-
-* You are permitted to use, copy and redistribute the work "as-is".
-* You may adapt, remix, transform and build upon the material, releasing any derivatives under your own name.
-* You may not use the material for any commercial purposes.
-* You must use the same license as the original work.
-* You must credit the following people when publishing your derivatives in the download and forum posts: codepants (Creator of Crowd-Sourced Science Logs), DuoDex (Current maintainer).
-
-### Other Contributors and Thanks!
+#### Other contributors and thanks!
 * Sigma88 - Plugin for fixing results
-* ImAHungryMan - Science reports
-* Toastibuns - Science reports
-* Wartz - Science reports
-* phardy - Science reports
-* Auranapse - Science reports
-* WolfGeek101 - Science reports
-* bcwadsworth - Science reports
-* voicey99 - Duna science reports
+* mwerle - For fixing the plugin
+* voicey99 and ImAHungryMan - Science reports
 * The KSP community - Science reports
 
-[ccs:release]: https://github.com/DuoDex/CrowdSourcedScience/releases/latest
-[license:CC40]: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
-[license:CC01]: https://creativecommons.org/publicdomain/zero/1.0/
-[shield:release]: https://img.shields.io/github/release/DuoDex/CrowdSourcedScience.svg
-[shield:CC40]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg
-[shield:CC01]: https://img.shields.io/badge/License-CC0%201.0-blue.svg
+## Contribute
+If you want to add your own custom science reports to CSS, you can read about it on our [wiki](https://github.com/DuoDex/CrowdSourcedScience/wiki).
+
+**NOTE:** By contributing you agree to license your contribution under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+## License
+CSS is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License, which means:
+  * You are free to share, copy and redistribute my work "as-is".
+  * You may adapt, remix, transform, and build upon the material.
+
+**Under the following terms:**
+  * You may not use the material for any commercial purposes.
+  * You must use the same license as the original work.
+  * You must credit the following people when publishing your derivatives in the download and forum posts:
+    * codepants (Creator of Crowd-Sourced Science Logs)
+    * DuoDex (Previous maintainer)
+    * Olympic1 (Current maintainer)
+
+See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
