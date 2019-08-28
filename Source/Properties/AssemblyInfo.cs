@@ -5,7 +5,7 @@
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Crowd Sourced Science Team")]
 [assembly: AssemblyProduct("ScienceFixer")]
-[assembly: AssemblyCopyright("Copyright © 2017-2018, Sigma88")]
+[assembly: AssemblyCopyright("Copyright © 2017-2019, Sigma88")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: AssemblyVersion("1.0.1.0")]

@@ -8,7 +8,7 @@
     "author"       : [ "DuoDex", "Olympic1", "Sigma88" ],
     "license"      : "CC-BY-NC-SA-4.0",
     "resources": {
-        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92332-*/"
+        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92332-css/"
     },
     "depends": [
         { "name": "ModuleManager", "min_version": "3.0.0" }
@@ -17,14 +17,6 @@
         {
             "find"       : "CrowdSourcedScience",
             "install_to" : "GameData"
-        }
-    ],
-    "x_netkan_override": [
-        {
-            "version": [ ">=v1.4.0", "<=v4.1" ],
-            "override": {
-                "depends": [ { "name": "ModuleManager", "max_version": "2.8.1" } ]
-            }
         }
     ]
 }
