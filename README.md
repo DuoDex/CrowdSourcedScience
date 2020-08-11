@@ -2,16 +2,16 @@ Crowd Sourced Science
 =====================
 Crowd Sourced Science adds huge numbers of new experiment results to [Kerbal Space Program](https://kerbalspaceprogram.com/) at virtually no cost to memory or performance. Best of all, you can contribute your own results and see them in-game!
 
-## Dependency
+### Dependency
 * [Module Manager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-mm/)
 
 **NOTE:** Module Manager v3.0.0 or higher is needed for this to work.
 
-## Downloads
+### Downloads
 * [CKAN](https://forum.kerbalspaceprogram.com/index.php?/topic/154922-ckan/)
 * [GitHub](https://github.com/DuoDex/CrowdSourcedScience/releases/latest)
 
-## The CSS Team
+### The CSS Team
 #### Maintainer
 * [Olympic1](https://forum.kerbalspaceprogram.com/index.php?/profile/79730-olympic1/)
 
@@ -20,12 +20,11 @@ Crowd Sourced Science adds huge numbers of new experiment results to [Kerbal Spa
 * [DuoDex](https://forum.kerbalspaceprogram.com/index.php?/profile/107061-duodex/) - Previous maintainer
 
 #### Other contributors and thanks!
-* Sigma88 - Plugin for fixing results
-* mwerle - For fixing the plugin
+* Jedilucas - Fix for randomization of science reports
 * voicey99 and ImAHungryMan - Science reports
 * The KSP community - Science reports
 
-## Contribute
+### Contribute
 If you want to add your own custom science reports to CSS, you can read about it on our [wiki](https://github.com/DuoDex/CrowdSourcedScience/wiki).
 
 **NOTE:** By contributing you agree to license your contribution under the [Creative Commons Zero v1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/).
@@ -43,4 +42,4 @@ CSS is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.
     * DuoDex (Previous maintainer)
     * Olympic1 (Current maintainer)
 
-See http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.
+See https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode for full details.

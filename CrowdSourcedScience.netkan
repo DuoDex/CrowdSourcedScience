@@ -5,10 +5,10 @@
     "$vref"        : "#/ckan/ksp-avc",
     "name"         : "Crowd Sourced Science",
     "abstract"     : "Provides a nearly inexhaustible supply of science reports in Kerbal Space Program",
-    "author"       : [ "DuoDex", "Olympic1", "Sigma88" ],
+    "author"       : [ "DuoDex", "Olympic1" ],
     "license"      : "CC-BY-NC-SA-4.0",
     "resources": {
-        "homepage": "http://forum.kerbalspaceprogram.com/index.php?/topic/92332-css/"
+        "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/92332-css/"
     },
     "depends": [
         { "name": "ModuleManager", "min_version": "3.0.0" }
