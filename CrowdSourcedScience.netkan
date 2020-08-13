@@ -10,6 +10,9 @@
     "resources": {
         "homepage": "https://forum.kerbalspaceprogram.com/index.php?/topic/92332-css/"
     },
+    "tags": [
+        "science"
+    ],
     "depends": [
         { "name": "ModuleManager", "min_version": "3.0.0" }
     ],
